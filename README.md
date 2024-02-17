@@ -1,4 +1,4 @@
-# Proyecto Integrador ecoomerce Backend comision 50035
+# Proyecto Integrador ecommerce Backend comision 50035
 
 Author: Damaris Lujan Calvillo
 

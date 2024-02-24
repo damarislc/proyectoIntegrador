@@ -1,5 +1,4 @@
 import messageModel from "../dao/models/message.model.js";
-colección;
 
 /**
  * Clase Message Manager para el manejo de los mensajes del chat
